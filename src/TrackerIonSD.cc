@@ -7,7 +7,7 @@ TrackerIonSD::TrackerIonSD(G4String name)
   G4String HCname;
   collectionName.insert(HCname="ionCollection");
   print=false; //LR (formerly not initialized)
- 
+
 }
 
 //--------------------------------------------------------------------
@@ -165,7 +165,7 @@ void TrackerIonSD::EndOfEvent(G4HCofThisEvent* HCE)
      
      }
      
-    }  
+    }
  
  static G4int HCID = -1;
   if(HCID<0)

@@ -432,7 +432,7 @@ void EventAction::EndOfEventAction(const G4Event* ev)
 	}
 
       }
-
+      
       // Write S800 event to the output file
       if(fisInBeam)
 	writeS800(timestamp, 
@@ -471,16 +471,40 @@ void EventAction::EndOfEventAction(const G4Event* ev)
 		  eventInfo->GetYTA());
     }
   }
-  
-  // Write emitted gamma information from this event to 
-  // the output file.
 
+  writeEventCache(eventInfo); // Write emitted gamma
   writeSim(timestamp, eventInfo);
 
   G4cout.flags( f );
 
 }
 // --------------------------------------------------
+
+// Write emitted gamma information from this event to 
+// the output file.
+void EventAction::writeEventCache(EventInformation* info){
+  G4HCofThisEvent * HCE = evt->GetHCofThisEvent();
+  TrackerIonHitsCollection* ionCollection 
+      = (TrackerIonHitsCollection*)(HCE->GetHC(ionCollectionID));
+  
+  std::string eventCache = "Event "+std::to_string(evt->GetEventID())+"\n";
+  
+  eventCache += "-----------------------------------\n";
+
+  eventCache += "Gammas produced: "+std::to_string(info->GetNEmittedGammas())+"\n";
+  for (G4int i = 0; i< info->GetNEmittedGammas();i++) eventCache += "\tGamma "+std::to_string(i+1)+" Direction: "+std::to_string(info->GetEmittedGammaPhi(i))+", "+std::to_string(info->GetEmittedGammaTheta(i))+"\n";
+  for (G4int i = 0; i< sizeof(ionCollection);i++) eventCache += "Particle "+std::to_string(i+1)+" Direction: "+std::to_string(get<i>(ionCollection)->GetTheta())+", "+std::to_string(get<i>(ionCollection)->GetPhi())+"\n";
+  eventCache += "ionCollection of size: "+std::to_string(sizeof(ionCollection))+"\n";
+
+  eventCache += "-----------------------------------\n";
+  //--- Writing to file and log
+  std::ofstream file("myfile.txt", std::ios::app);
+  file << eventCache;
+
+  G4cout << "Writing eventCache: " << endl << eventCache << endl;
+  file.close();
+}
+
 void EventAction::writeGEBHeader(GEBDATA* gd){
 
   G4int siz;

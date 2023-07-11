@@ -40,6 +40,7 @@ class EventAction : public G4UserEventAction
     G4bool Mode2Out(){return mode2Out;}
     void openMode2file();
     void closeMode2file();
+    void writeEventCache(EventInformation*);
     void writeGEBHeader(GEBDATA*);
     void writeS800(long long int, G4double, G4double, G4double, G4double);
     void writeDecomp(long long int, G4int, G4int*, G4int*, G4int*, G4double*,

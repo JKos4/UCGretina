@@ -1,0 +1,60 @@
+Event 0
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: -3.018393, 1.461435
+ionCollection of size: 8
+-----------------------------------
+Event 1
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 0.078206, 0.801137
+ionCollection of size: 8
+-----------------------------------
+Event 2
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: -0.130998, 0.669627
+ionCollection of size: 8
+-----------------------------------
+Event 3
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 1.492381, 1.875177
+ionCollection of size: 8
+-----------------------------------
+Event 4
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 0.393047, 1.575379
+ionCollection of size: 8
+-----------------------------------
+Event 5
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 0.152484, 1.091640
+ionCollection of size: 8
+-----------------------------------
+Event 6
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: -0.541854, 1.665700
+ionCollection of size: 8
+-----------------------------------
+Event 7
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 0.817961, 0.329509
+ionCollection of size: 8
+-----------------------------------
+Event 8
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: 1.928767, 0.546647
+ionCollection of size: 8
+-----------------------------------
+Event 9
+-----------------------------------
+Gammas produced: 1
+	Gamma 1 Direction: -2.513648, 0.647038
+ionCollection of size: 8
+-----------------------------------
