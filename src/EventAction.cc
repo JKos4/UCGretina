@@ -493,7 +493,7 @@ void EventAction::writeEventCache(EventInformation* info){
 
   eventCache += "Gammas produced: "+std::to_string(info->GetNEmittedGammas())+"\n";
   for (G4int i = 0; i< info->GetNEmittedGammas();i++) eventCache += "\tGamma "+std::to_string(i+1)+" Direction: "+std::to_string(info->GetEmittedGammaPhi(i))+", "+std::to_string(info->GetEmittedGammaTheta(i))+"\n";
-  for (G4int i = 0; i< sizeof(ionCollection);i++) eventCache += "Particle "+std::to_string(i+1)+" Direction: "+std::to_string(get<i>(ionCollection)->GetTheta())+", "+std::to_string(get<i>(ionCollection)->GetPhi())+"\n";
+  for (G4int i = 0; i< sizeof(ionCollection);i++) eventCache += "Particle "+std::to_string(i+1)+" Direction: "+std::to_string((*ionCollection)[i]->GetTheta())+", "+std::to_string((*ionCollection)[i]->GetPhi())+"\n";
   eventCache += "ionCollection of size: "+std::to_string(sizeof(ionCollection))+"\n";
 
   eventCache += "-----------------------------------\n";
