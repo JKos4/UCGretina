@@ -497,8 +497,8 @@ void EventAction::writeEventCache(EventInformation* info){
                   " Direction (Phi, Theta): "+std::to_string(info->GetEmittedGammaPhi(i))+
                   ", "+std::to_string(info->GetEmittedGammaTheta(i))+"\n";
   }
-  eventCache += "ionCollection of size: "+std::to_string(sizeof(ionCollection))+"\n";
-  for (G4int i = 0; i< sizeof(ionCollection);i++) {
+  eventCache += "ionCollection of size: "+std::to_string(ionCollection->entries())+"\n";
+  for (G4int i = 0; i< ionCollection->entries();i++) {
     eventCache += "Particle "+std::to_string(i+1)+" information at global time "+std::to_string((*ionCollection)[i]->GetGlobTime())+" "
                   "Position: ("+std::to_string((*ionCollection)[i]->GetPos().getX())+", "+std::to_string((*ionCollection)[i]->GetPos().getY())+", "+std::to_string((*ionCollection)[i]->GetPos().getZ())+")"+
                   " Direction (Theta, Phi): ("+std::to_string((*ionCollection)[i]->GetPhi())+
