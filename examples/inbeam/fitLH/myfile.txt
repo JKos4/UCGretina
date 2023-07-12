@@ -1,140 +1,140 @@
 Event 0
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: -3.018393, 1.461435
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000006, 2.129411
-Particle 3 Direction: 0.000020, 1.537946
-Particle 4 Direction: 0.000062, -1.913038
-Particle 5 Direction: 0.000085, -2.382943
-Particle 6 Direction: 0.000055, -1.069956
-Particle 7 Direction: 0.000065, -1.098030
-Particle 8 Direction: 0.000097, -1.068588
+	Gamma 1 Direction (Phi, Theta): -3.018393, 1.461435
 ionCollection of size: 8
+Particle 1 information at global time 3.759643 Position: (0.527146, 1.129662, -15.997845) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.429418
+Particle 2 information at global time 3.759737 Position: (0.527146, 1.129662, -15.985737) Direction (Theta, Phi): 2.129411, 0.000006Beta: 0.429389
+Particle 3 information at global time 3.759898 Position: (0.527146, 1.129662, -15.964937) Direction (Theta, Phi): 1.537946, 0.000020Beta: 0.429356
+Particle 4 information at global time 3.760922 Position: (0.527146, 1.129664, -15.833233) Direction (Theta, Phi): -1.913038, 0.000062Beta: 0.429191
+Particle 5 information at global time 3.761245 Position: (0.527145, 1.129662, -15.791593) Direction (Theta, Phi): -2.382943, 0.000085Beta: 0.429131
+Particle 6 information at global time 3.763672 Position: (0.527127, 1.129644, -15.479441) Direction (Theta, Phi): -1.069956, 0.000055Beta: 0.428747
+Particle 7 information at global time 3.763837 Position: (0.527128, 1.129643, -15.458199) Direction (Theta, Phi): -1.098030, 0.000065Beta: 0.428710
+Particle 8 information at global time 3.764329 Position: (0.527130, 1.129639, -15.394952) Direction (Theta, Phi): -1.068588, 0.000097Beta: 0.428620
 -----------------------------------
 Event 1
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 0.078206, 0.801137
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000031, 2.552000
-Particle 3 Direction: 0.000091, -0.363005
-Particle 4 Direction: 0.000082, -1.956637
-Particle 5 Direction: 0.000099, -1.895289
-Particle 6 Direction: 0.000246, -1.272788
-Particle 7 Direction: 0.000218, -1.262015
-Particle 8 Direction: 0.000219, -1.254221
+	Gamma 1 Direction (Phi, Theta): 0.078206, 0.801137
 ionCollection of size: 8
+Particle 1 information at global time 3.738796 Position: (-1.541296, 1.131837, -15.994923) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.431815
+Particle 2 information at global time 3.739211 Position: (-1.541296, 1.131837, -15.941250) Direction (Theta, Phi): 2.552000, 0.000031Beta: 0.431751
+Particle 3 information at global time 3.743187 Position: (-1.541306, 1.131846, -15.426565) Direction (Theta, Phi): -0.363005, 0.000091Beta: 0.431103
+Particle 4 information at global time 3.748416 Position: (-1.541253, 1.131823, -14.750721) Direction (Theta, Phi): -1.956637, 0.000082Beta: 0.430315
+Particle 5 information at global time 3.749588 Position: (-1.541258, 1.131811, -14.599549) Direction (Theta, Phi): -1.895289, 0.000099Beta: 0.430121
+Particle 6 information at global time 3.753318 Position: (-1.541270, 1.131765, -14.118602) Direction (Theta, Phi): -1.272788, 0.000246Beta: 0.429537
+Particle 7 information at global time 3.754543 Position: (-1.541259, 1.131729, -13.960866) Direction (Theta, Phi): -1.262015, 0.000218Beta: 0.429334
+Particle 8 information at global time 3.754656 Position: (-1.541258, 1.131726, -13.946313) Direction (Theta, Phi): -1.254221, 0.000219Beta: 0.429310
 -----------------------------------
 Event 2
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: -0.130998, 0.669627
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000008, -2.247605
-Particle 3 Direction: 0.000065, 0.860875
-Particle 4 Direction: 0.000051, -0.175473
-Particle 5 Direction: 0.000100, -0.838151
-Particle 6 Direction: 0.000077, -1.428624
-Particle 7 Direction: 0.000065, -1.434955
-Particle 8 Direction: 0.000373, 0.832394
+	Gamma 1 Direction (Phi, Theta): -0.130998, 0.669627
 ionCollection of size: 8
+Particle 1 information at global time 3.748611 Position: (-0.984775, -2.531540, -15.989728) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.430689
+Particle 2 information at global time 3.748638 Position: (-0.984775, -2.531540, -15.986334) Direction (Theta, Phi): -2.247605, 0.000008Beta: 0.430679
+Particle 3 information at global time 3.749783 Position: (-0.984775, -2.531540, -15.838475) Direction (Theta, Phi): 0.860875, 0.000065Beta: 0.430500
+Particle 4 information at global time 3.750412 Position: (-0.984772, -2.531536, -15.757236) Direction (Theta, Phi): -0.175473, 0.000051Beta: 0.430393
+Particle 5 information at global time 3.752437 Position: (-0.984759, -2.531540, -15.495926) Direction (Theta, Phi): -0.838151, 0.000100Beta: 0.430062
+Particle 6 information at global time 3.753589 Position: (-0.984750, -2.531551, -15.347439) Direction (Theta, Phi): -1.428624, 0.000077Beta: 0.429886
+Particle 7 information at global time 3.753654 Position: (-0.984750, -2.531552, -15.339019) Direction (Theta, Phi): -1.434955, 0.000065Beta: 0.429873
+Particle 8 information at global time 3.757610 Position: (-0.984742, -2.531583, -14.829221) Direction (Theta, Phi): 0.832394, 0.000373Beta: 0.429209
 -----------------------------------
 Event 3
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 1.492381, 1.875177
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000118, -1.310655
-Particle 3 Direction: 0.000103, -1.387938
-Particle 4 Direction: 0.000194, -1.841454
-Particle 5 Direction: 0.000207, -2.165546
-Particle 6 Direction: 0.000215, -2.181816
-Particle 7 Direction: 0.000190, -2.083997
-Particle 8 Direction: 0.000105, -2.584598
+	Gamma 1 Direction (Phi, Theta): 1.492381, 1.875177
 ionCollection of size: 8
+Particle 1 information at global time 3.728542 Position: (-0.794692, 3.408445, -15.982888) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.433013
+Particle 2 information at global time 3.729954 Position: (-0.794692, 3.408444, -15.799606) Direction (Theta, Phi): -1.310655, 0.000118Beta: 0.432804
+Particle 3 information at global time 3.730126 Position: (-0.794691, 3.408442, -15.777234) Direction (Theta, Phi): -1.387938, 0.000103Beta: 0.432768
+Particle 4 information at global time 3.732266 Position: (-0.794687, 3.408412, -15.499674) Direction (Theta, Phi): -1.841454, 0.000194Beta: 0.432417
+Particle 5 information at global time 3.733291 Position: (-0.794694, 3.408388, -15.366690) Direction (Theta, Phi): -2.165546, 0.000207Beta: 0.432248
+Particle 6 information at global time 3.733314 Position: (-0.794695, 3.408387, -15.363729) Direction (Theta, Phi): -2.181816, 0.000215Beta: 0.432240
+Particle 7 information at global time 3.735770 Position: (-0.794732, 3.408332, -15.045453) Direction (Theta, Phi): -2.083997, 0.000190Beta: 0.431879
+Particle 8 information at global time 3.739350 Position: (-0.794775, 3.408258, -14.582050) Direction (Theta, Phi): -2.584598, 0.000105Beta: 0.431383
 -----------------------------------
 Event 4
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 0.393047, 1.575379
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000026, -2.432299
-Particle 3 Direction: 0.000044, -2.585512
-Particle 4 Direction: 0.000016, 0.754678
-Particle 5 Direction: 0.000042, 0.665261
-Particle 6 Direction: 0.000104, 0.589720
-Particle 7 Direction: 0.000162, 0.766336
-Particle 8 Direction: 0.000128, 0.464993
+	Gamma 1 Direction (Phi, Theta): 0.393047, 1.575379
 ionCollection of size: 8
+Particle 1 information at global time 3.774496 Position: (-0.655818, -2.985923, -15.986971) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.427738
+Particle 2 information at global time 3.776277 Position: (-0.655819, -2.985924, -15.758659) Direction (Theta, Phi): -2.432299, 0.000026Beta: 0.427457
+Particle 3 information at global time 3.776299 Position: (-0.655819, -2.985924, -15.755725) Direction (Theta, Phi): -2.585512, 0.000044Beta: 0.427449
+Particle 4 information at global time 3.780356 Position: (-0.655839, -2.985933, -15.235900) Direction (Theta, Phi): 0.754678, 0.000016Beta: 0.426885
+Particle 5 information at global time 3.781520 Position: (-0.655837, -2.985931, -15.086965) Direction (Theta, Phi): 0.665261, 0.000042Beta: 0.426705
+Particle 6 information at global time 3.782972 Position: (-0.655830, -2.985926, -14.901187) Direction (Theta, Phi): 0.589720, 0.000104Beta: 0.426460
+Particle 7 information at global time 3.785344 Position: (-0.655804, -2.985907, -14.597946) Direction (Theta, Phi): 0.766336, 0.000162Beta: 0.426107
+Particle 8 information at global time 3.786074 Position: (-0.655793, -2.985897, -14.504705) Direction (Theta, Phi): 0.464993, 0.000128Beta: 0.425978
 -----------------------------------
 Event 5
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 0.152484, 1.091640
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000014, -0.317727
-Particle 3 Direction: 0.000073, 1.181085
-Particle 4 Direction: 0.000107, 1.142002
-Particle 5 Direction: 0.000082, 0.217964
-Particle 6 Direction: 0.000050, 0.504812
-Particle 7 Direction: 0.000075, 0.493446
-Particle 8 Direction: 0.000106, 0.783246
+	Gamma 1 Direction (Phi, Theta): 0.152484, 1.091640
 ionCollection of size: 8
+Particle 1 information at global time 3.759181 Position: (-1.845924, 0.601113, -15.994766) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.429473
+Particle 2 information at global time 3.759551 Position: (-1.845924, 0.601113, -15.947140) Direction (Theta, Phi): -0.317727, 0.000014Beta: 0.429389
+Particle 3 information at global time 3.759999 Position: (-1.845923, 0.601113, -15.889442) Direction (Theta, Phi): 1.181085, 0.000073Beta: 0.429317
+Particle 4 information at global time 3.761807 Position: (-1.845916, 0.601129, -15.656702) Direction (Theta, Phi): 1.142002, 0.000107Beta: 0.429031
+Particle 5 information at global time 3.762387 Position: (-1.845912, 0.601137, -15.582214) Direction (Theta, Phi): 0.217964, 0.000082Beta: 0.428937
+Particle 6 information at global time 3.762642 Position: (-1.845910, 0.601137, -15.549403) Direction (Theta, Phi): 0.504812, 0.000050Beta: 0.428899
+Particle 7 information at global time 3.763418 Position: (-1.845905, 0.601140, -15.449644) Direction (Theta, Phi): 0.493446, 0.000075Beta: 0.428764
+Particle 8 information at global time 3.765365 Position: (-1.845888, 0.601149, -15.199358) Direction (Theta, Phi): 0.783246, 0.000106Beta: 0.428454
 -----------------------------------
 Event 6
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: -0.541854, 1.665700
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000097, -0.661719
-Particle 3 Direction: 0.000075, 0.163298
-Particle 4 Direction: 0.000062, -0.221302
-Particle 5 Direction: 0.000110, -0.596556
-Particle 6 Direction: 0.000153, -0.360701
-Particle 7 Direction: 0.000180, -0.519776
-Particle 8 Direction: 0.000242, -0.515065
+	Gamma 1 Direction (Phi, Theta): -0.541854, 1.665700
 ionCollection of size: 8
+Particle 1 information at global time 3.777120 Position: (0.365493, 3.071694, -15.986658) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.427441
+Particle 2 information at global time 3.778761 Position: (0.365493, 3.071695, -15.776420) Direction (Theta, Phi): -0.661719, 0.000097Beta: 0.427189
+Particle 3 information at global time 3.781078 Position: (0.365517, 3.071678, -15.479643) Direction (Theta, Phi): 0.163298, 0.000075Beta: 0.426828
+Particle 4 information at global time 3.782243 Position: (0.365527, 3.071680, -15.330646) Direction (Theta, Phi): -0.221302, 0.000062Beta: 0.426644
+Particle 5 information at global time 3.783972 Position: (0.365540, 3.071676, -15.109508) Direction (Theta, Phi): -0.596556, 0.000110Beta: 0.426368
+Particle 6 information at global time 3.784322 Position: (0.365545, 3.071673, -15.064716) Direction (Theta, Phi): -0.360701, 0.000153Beta: 0.426309
+Particle 7 information at global time 3.784876 Position: (0.365555, 3.071669, -14.993934) Direction (Theta, Phi): -0.519776, 0.000180Beta: 0.426214
+Particle 8 information at global time 3.785784 Position: (0.365573, 3.071659, -14.877947) Direction (Theta, Phi): -0.515065, 0.000242Beta: 0.426064
 -----------------------------------
 Event 7
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 0.817961, 0.329509
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000027, 1.952590
-Particle 3 Direction: 0.000050, 1.475615
-Particle 4 Direction: 0.000082, 1.322103
-Particle 5 Direction: 0.000100, 0.909358
-Particle 6 Direction: 0.000075, 0.554056
-Particle 7 Direction: 0.000103, -2.698645
-Particle 8 Direction: 0.000175, -2.455935
+	Gamma 1 Direction (Phi, Theta): 0.817961, 0.329509
 ionCollection of size: 8
+Particle 1 information at global time 3.757503 Position: (-0.082359, 2.346443, -15.992335) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.429667
+Particle 2 information at global time 3.757828 Position: (-0.082359, 2.346443, -15.950532) Direction (Theta, Phi): 1.952590, 0.000027Beta: 0.429609
+Particle 3 information at global time 3.758087 Position: (-0.082360, 2.346444, -15.917130) Direction (Theta, Phi): 1.475615, 0.000050Beta: 0.429576
+Particle 4 information at global time 3.759709 Position: (-0.082359, 2.346456, -15.708256) Direction (Theta, Phi): 1.322103, 0.000082Beta: 0.429321
+Particle 5 information at global time 3.759781 Position: (-0.082358, 2.346456, -15.699003) Direction (Theta, Phi): 0.909358, 0.000100Beta: 0.429298
+Particle 6 information at global time 3.761262 Position: (-0.082347, 2.346471, -15.508443) Direction (Theta, Phi): 0.554056, 0.000075Beta: 0.429067
+Particle 7 information at global time 3.763853 Position: (-0.082327, 2.346484, -15.175068) Direction (Theta, Phi): -2.698645, 0.000103Beta: 0.428636
+Particle 8 information at global time 3.767417 Position: (-0.082369, 2.346461, -14.717114) Direction (Theta, Phi): -2.455935, 0.000175Beta: 0.428099
 -----------------------------------
 Event 8
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: 1.928767, 0.546647
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000032, -0.054479
-Particle 3 Direction: 0.000035, -0.047833
-Particle 4 Direction: 0.000111, -1.234255
-Particle 5 Direction: 0.000124, -1.313317
-Particle 6 Direction: 0.000096, 0.401722
-Particle 7 Direction: 0.000104, 0.373981
-Particle 8 Direction: 0.000082, 0.267887
+	Gamma 1 Direction (Phi, Theta): 1.928767, 0.546647
 ionCollection of size: 8
+Particle 1 information at global time 3.747667 Position: (-1.507502, -2.455504, -15.988434) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.430798
+Particle 2 information at global time 3.747826 Position: (-1.507502, -2.455504, -15.967820) Direction (Theta, Phi): -0.054479, 0.000032Beta: 0.430767
+Particle 3 information at global time 3.748047 Position: (-1.507501, -2.455504, -15.939285) Direction (Theta, Phi): -0.047833, 0.000035Beta: 0.430726
+Particle 4 information at global time 3.749641 Position: (-1.507494, -2.455505, -15.733499) Direction (Theta, Phi): -1.234255, 0.000111Beta: 0.430468
+Particle 5 information at global time 3.750166 Position: (-1.507491, -2.455512, -15.665695) Direction (Theta, Phi): -1.313317, 0.000124Beta: 0.430378
+Particle 6 information at global time 3.754186 Position: (-1.507474, -2.455571, -15.147103) Direction (Theta, Phi): 0.401722, 0.000096Beta: 0.429776
+Particle 7 information at global time 3.754372 Position: (-1.507472, -2.455571, -15.123067) Direction (Theta, Phi): 0.373981, 0.000104Beta: 0.429735
+Particle 8 information at global time 3.754568 Position: (-1.507469, -2.455570, -15.097888) Direction (Theta, Phi): 0.267887, 0.000082Beta: 0.429695
 -----------------------------------
 Event 9
 -----------------------------------
 Gammas produced: 1
-	Gamma 1 Direction: -2.513648, 0.647038
-Particle 1 Direction: 0.000000, 0.000000
-Particle 2 Direction: 0.000116, -0.521972
-Particle 3 Direction: 0.000285, -0.733160
-Particle 4 Direction: 0.000314, -0.727357
-Particle 5 Direction: 0.000342, -0.791146
-Particle 6 Direction: 0.000335, -0.765962
-Particle 7 Direction: 0.000340, -0.709310
-Particle 8 Direction: 0.000330, -0.819082
+	Gamma 1 Direction (Phi, Theta): -2.513648, 0.647038
 ionCollection of size: 8
+Particle 1 information at global time 3.771823 Position: (1.554094, -0.622948, -15.996110) Direction (Theta, Phi): 0.000000, 0.000000Beta: 0.428033
+Particle 2 information at global time 3.774272 Position: (1.554095, -0.622948, -15.681819) Direction (Theta, Phi): -0.521972, 0.000116Beta: 0.427657
+Particle 3 information at global time 3.776592 Position: (1.554127, -0.622966, -15.384381) Direction (Theta, Phi): -0.733160, 0.000285Beta: 0.427316
+Particle 4 information at global time 3.777659 Position: (1.554156, -0.622992, -15.247627) Direction (Theta, Phi): -0.727357, 0.000314Beta: 0.427147
+Particle 5 information at global time 3.778441 Position: (1.554179, -0.623013, -15.147532) Direction (Theta, Phi): -0.791146, 0.000342Beta: 0.427024
+Particle 6 information at global time 3.779431 Position: (1.554209, -0.623044, -15.020763) Direction (Theta, Phi): -0.765962, 0.000335Beta: 0.426870
+Particle 7 information at global time 3.779524 Position: (1.554212, -0.623046, -15.008956) Direction (Theta, Phi): -0.709310, 0.000340Beta: 0.426856
+Particle 8 information at global time 3.780717 Position: (1.554251, -0.623080, -14.856235) Direction (Theta, Phi): -0.819082, 0.000330Beta: 0.426670
 -----------------------------------
