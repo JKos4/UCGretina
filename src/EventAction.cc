@@ -499,16 +499,19 @@ void EventAction::writeEventCache(EventInformation* info){
     gammaZ=info->GetEmittedGammaPosZ(i);
   }
   eventCache += "ionCollection of size: "+std::to_string(ionCollection->entries())+"\n";
+  std:string ionCollectionCache = "";
+  G4int postGammaIonCollectionEntries = 0;
   for (G4int i = 0; i< ionCollection->entries();i++) {
     if (gammaZ <= (*ionCollection)[i]->GetPos().getZ()) {
-    eventCache += "Particle "+std::to_string(i+1)+" information at global time "+std::to_string((*ionCollection)[i]->GetGlobTime())+" "
+      ionCollectionCache += "Particle "+std::to_string(i+1)+" information at global time "+std::to_string((*ionCollection)[i]->GetGlobTime())+" "
                   "Position: ("+std::to_string((*ionCollection)[i]->GetPos().getX())+", "+std::to_string((*ionCollection)[i]->GetPos().getY())+", "+std::to_string((*ionCollection)[i]->GetPos().getZ())+")"+
                   " Direction (Theta, Phi): ("+std::to_string((*ionCollection)[i]->GetPhi())+
                   ", "+std::to_string((*ionCollection)[i]->GetTheta())+") "+
                   "Beta: "+std::to_string((*ionCollection)[i]->GetBeta())+"\n";
+      postGammaIonCollectionEntries++;
     }
   }
-  
+  eventCache += "postGammaIonCollection of size: "+std::to_string(ionCollection->entries()-postGammaIonCollectionEntries)+"\n"+ionCollectionCache;
 
   eventCache += "-----------------------------------\n";
   //--- Writing to file and log
